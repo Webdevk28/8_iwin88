@@ -10,6 +10,9 @@ body {
     -o-background-size: cover;
     background-size: cover;   
 }
+.center{
+    width: 1280px;
+}
 .body-item .menu-item2 {
     width: 0;
     position: fixed;
